@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dynamical View</string>
+    <string name="btn_add_element">Add element</string>
 </resources>
